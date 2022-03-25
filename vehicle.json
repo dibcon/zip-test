@@ -1,0 +1,18 @@
+{
+"Fahrzeug": {
+  "PKW": {
+    "Raeder": 4,
+    "Treibstoff": "Benzin",
+    "Baujahr": 2016,
+    "Angemeldet": true,
+    "Fahrer": ["Hagen", "Siegfried", "Gudrun"]
+},
+  "LKW": {
+    "Raeder": 6,
+    "Treibstoff": "Diesel",
+    "Baujahr": 2014,
+    "Angemeldet": true,
+    "Fahrer": ["Brunhilde", "Gudrun"]
+    }
+  }
+}
